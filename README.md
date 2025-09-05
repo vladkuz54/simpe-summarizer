@@ -83,7 +83,3 @@ npm run build
 - Install all required Python packages
 
 ---
-
-## License
-MIT
-
